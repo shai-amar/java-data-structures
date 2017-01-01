@@ -18,4 +18,6 @@ This repository implement various data structures for general use
 
 ## Trees
 ### Binary search tree
+### Balanced search tree
+### Suffix Tree
 
