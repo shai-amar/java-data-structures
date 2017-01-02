@@ -30,13 +30,15 @@ This repository implement various data structures and algorithms for general use
 
 ## Graph traversal
 ### Directed Graph
-A graph G = (V,E) is directed if edge (x,y) ∈ E does NOT impliy that (y,x) is also in E
+Definition: A graph G = (V,E) is directed if edge (x,y) ∈ E does NOT impliy that (y,x) is also in E
 ### Undirected graph
-A graph G = (V,E) is undirected if edge (x,y) ∈ E implies that (y,x) is also in E
+Definition: A graph G = (V,E) is undirected if edge (x,y) ∈ E implies that (y,x) is also in E
 ### Weighted graph
-
+Definition: A graph G = (V,E) is weighted if it have a weight, or number, associated with each edge E. Some algorithms require all weights to be nonnegative, integral, positive, etc. Also known as edge-weighted graph.
 ### Unweighted graph
+Definition: A graph G = (V,E) is unweighted if it do not have a weight, or number, associated with each edge E.
 ### Simple graph
+Definition: A simple graph G = (V,E), also called a strict graph is an unweighted, undirected graph G containing no graph loops or multiple edges. A simple graph may be either connected or disconnected.
 ### Non simple graph
 ### Sparse graph
 ### Dense graph
