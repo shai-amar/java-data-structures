@@ -21,3 +21,11 @@ This repository implement various data structures and algorithms for general use
 ### Balanced search tree
 ### Suffix Tree
 
+## Sorting and searching
+### Heapsort
+### Mergesort
+### Quicksort
+### Distribution sort
+### Binary search
+
+## Graph traversal
