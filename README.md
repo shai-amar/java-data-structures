@@ -29,3 +29,22 @@ This repository implement various data structures and algorithms for general use
 ### Binary search
 
 ## Graph traversal
+### Directed Graph
+A graph G = (V,E) is directed if edge (x,y) ∈ E does NOT impliy that (y,x) is also in E
+### Undirected graph
+A graph G = (V,E) is undirected if edge (x,y) ∈ E implies that (y,x) is also in E
+### Weighted graph
+
+### Unweighted graph
+### Simple graph
+### Non simple graph
+### Sparse graph
+### Dense graph
+### Cyclic graph
+### Acyclic graph
+### Embedded graph
+### Topological graph
+### Implicit graph
+### Explicit graph
+### Labeled graph
+### Unlabled graph
