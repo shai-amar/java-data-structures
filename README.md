@@ -31,6 +31,8 @@ This repository implement various data structures and algorithms for general use
 ## Graph traversal
 ### Directed Graph
 Definition: A graph G = (V,E) is directed if edge (x,y) ∈ E does NOT impliy that (y,x) is also in E
+![Alt text](/images/directed_graph.png?raw=true "Optional Title")
+
 ### Undirected graph
 Definition: A graph G = (V,E) is undirected if edge (x,y) ∈ E implies that (y,x) is also in E
 ### Weighted graph
