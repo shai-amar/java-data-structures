@@ -13,6 +13,7 @@ Definition: A graph G = (V,E) is doubly-linked list if it is a singly-linked lis
 
 ## Stacks and Queues
 ### Stack
+Definition: Stack is an ordered list of similar data type. Stack is a **LIFO** structure. (Last in First out). **push()** function is used to insert new elements into the Stack and **pop()** is used to delete an element from the stack. Both insertion and deletion are allowed at only one end of Stack called **Top**.
 ### Regular queue
 ### Priority queue
 
