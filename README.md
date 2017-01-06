@@ -48,7 +48,7 @@ Definition: Stack is an ordered list of similar data type. Stack is a **LIFO** s
 ### Directed Graph
 Definition: A graph G = (V,E) is directed if edge (x,y) ∈ E does NOT impliy that (y,x) is also in E
 
-![](/images/graphs/directed_graph.png?raw=true)
+![](/images/graphs/directed_graph2.png?raw=true)
 
 ### Undirected graph
 Definition: A graph G = (V,E) is undirected if edge (x,y) ∈ E implies that (y,x) is also in E
