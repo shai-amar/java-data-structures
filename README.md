@@ -34,7 +34,7 @@ The process to add an element into queue is called **Enqueue** and the process o
 ### Priority queue
 Definition: Priority queue is an abstract data type which is like a regular queue or stack data structure, but where additionally each element has a __priority__ associated with it. In a priority queue, an element with high priority is served before an element with low priority. If two elements have the same priority, they are served according to their order in the queue.
 
-![](/images/queues/priority-queue.png?raw=true)
+![](/images/queues/priority-queue.gif?raw=true)
 
 ## Dictionaries
 ### Hash table
