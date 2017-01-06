@@ -41,6 +41,9 @@ Definition: A graph G = (V,E) is directed if edge (x,y) ∈ E does NOT impliy th
 
 ### Undirected graph
 Definition: A graph G = (V,E) is undirected if edge (x,y) ∈ E implies that (y,x) is also in E
+
+![](/images/undirected_graph.png?raw=true)
+
 ### Weighted graph
 Definition: A graph G = (V,E) is weighted if it have a weight, or number, associated with each edge E. Some algorithms require all weights to be nonnegative, integral, positive, etc. Also known as edge-weighted graph.
 ### Unweighted graph
