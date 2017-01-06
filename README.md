@@ -25,6 +25,12 @@ Definition: Stack is an ordered list of similar data type. Stack is a **LIFO** s
 ![](/images/stacks/stack-data-structure.png?raw=true)
 
 ### Regular queue
+Definition: Queue is also an abstract data type or a linear data structure, in which the first element is inserted from one end called REAR(also called tail), and the deletion of exisiting element takes place from the other end called as FRONT(also called head). This makes queue as FIFO data structure, which means that element inserted first will also be removed first.
+
+The process to add an element into queue is called **Enqueue** and the process of removal of an element from queue is called **Dequeue**.
+
+![](/images/queues/regular-queue.png?raw=true)
+
 ### Priority queue
 
 ## Dictionaries
