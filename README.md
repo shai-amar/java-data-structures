@@ -16,6 +16,8 @@ Definition: A graph G = (V,E) is a circular linked list if it is a sequence of e
 ### Doubly linked list
 Definition: A graph G = (V,E) is doubly-linked list if it is a singly-linked list and in addition every node in it also contains a link to the previous node. 
 
+![](/images/lists/doublyLinkedList.gif?raw=true)
+
 ## Stacks and Queues
 ### Stack
 Definition: Stack is an ordered list of similar data type. Stack is a **LIFO** structure. (Last in First out). **push()** function is used to insert new elements into the Stack and **pop()** is used to delete an element from the stack. Both insertion and deletion are allowed at only one end of Stack called **Top**.
