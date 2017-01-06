@@ -11,6 +11,8 @@ Definition: A graph G = (V,E) is singly-linked list if every element contains so
 ### Circular linked list
 Definition: A graph G = (V,E) is a circular linked list if it is a sequence of elements in which every element has link to its next element in the sequence and the last element has a link to the first element in the sequence.
 
+![](/images/lists/circular-linked-list.jpg?raw=true)
+
 ### Doubly linked list
 Definition: A graph G = (V,E) is doubly-linked list if it is a singly-linked list and in addition every node in it also contains a link to the previous node. 
 
