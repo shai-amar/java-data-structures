@@ -38,6 +38,10 @@ The process to add an element into queue is called **Enqueue** and the process o
 
 ## Dictionaries
 ### Hash table
+**Definition:** A hash table (hash map) is a data structure used to implement an associative array, a structure that can map keys to values. A hash table uses a hash function to compute an index into an array of buckets or slots, from which the desired value can be found.
+
+![](/images/dictionaries/hashTable.png?raw=true)
+
 ### Map
 ### Dictionary
 
