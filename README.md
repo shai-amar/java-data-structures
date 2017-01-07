@@ -36,14 +36,15 @@ The process to add an element into queue is called **Enqueue** and the process o
 
 ![](/images/queues/priority-queue.gif?raw=true)
 
-## Dictionaries
+## Key value store
+Key value store structure represented in java by a **Hash Table** or a **Map**. In different languages they are called in a different names. Objective-C equivalent is the **Dictionary**.
+
 ### Hash table
 **Definition:** A hash table (hash map) is a data structure used to implement an associative array, a structure that can map keys to values. A hash table uses a hash function to compute an index into an array of buckets or slots, from which the desired value can be found.
 
 ![](/images/dictionaries/hashTable.png?raw=true)
 
 ### Map
-### Dictionary
 
 ## Trees
 ### Binary search tree
