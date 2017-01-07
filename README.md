@@ -3,7 +3,7 @@ This repository implement various data structures and algorithms for general use
 
 ## Linked list
 ### Singly linked list
-Definition: A graph G = (V,E) is singly-linked list if every element contains some data and a link to the next element, which allows to keep the structure. 
+**Definition:** A graph G = (V,E) is singly-linked list if every element contains some data and a link to the next element, which allows to keep the structure. 
 
 ![](/images/lists/singlyLinkedList.gif?raw=true)
 
