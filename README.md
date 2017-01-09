@@ -54,7 +54,6 @@ This is the most important difference between two . HashMap is non synchronized 
 
 ![](/images/dictionaries/hashTable.png?raw=true)
 
-### Map
 
 ## Trees
 ### Binary search tree
