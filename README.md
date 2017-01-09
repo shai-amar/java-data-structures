@@ -39,8 +39,18 @@ The process to add an element into queue is called **Enqueue** and the process o
 ## Key value store
 Key value store structure represented in java by a **Hash Table** or a **Map**. In different languages they are called in a different names. Objective-C equivalent is the **Dictionary**.
 
-### Hash table
+### Hash table / Hash Map
 **Definition:** A hash table (hash map) is a data structure used to implement an associative array, a structure that can map keys to values. A hash table uses a hash function to compute an index into an array of buckets or slots, from which the desired value can be found.
+Hash Table and Hash Map are the almost the same but there are some differences:
+
+**Null keys** and **null values**
+Hashmap allows one null key and any number of null values, while Hashtable do not allow null keys and null values in the HashTable object.
+
+**Iterating the values**
+Hashmap object values are iterated by using iterator .HashTable is the only class other than vector which uses enumerator to iterate the values of HashTable object.
+
+**Synchronization** and **thread safe**
+This is the most important difference between two . HashMap is non synchronized and not thread safe.On the other hand, HashTable is thread safe and synchronized.
 
 ![](/images/dictionaries/hashTable.png?raw=true)
 
