@@ -91,15 +91,15 @@ Key-Value store structure is one of the most important data structures exist. He
 
 ####Internal nodes
 
-![](/images/trees/TreeNodes.png?raw=true)
+![](/images/trees/TreeInternal.png?raw=true)
 
 ####Degrees
 
-![](/images/trees/TreeDegrees.png?raw=true)
+![](/images/trees/TreeDegree.png?raw=true)
 
 ####Level
 
-![](/images/trees/TreeLevel.png?raw=true)
+![](/images/trees/TreeLevels.png?raw=true)
 
 ####Height
 
