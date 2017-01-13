@@ -61,6 +61,10 @@ Key-Value store structure is one of the most important data structures exist. He
 
 
 ## Trees
+
+**Definition:** A Tree is a data structure compiled from a **Root node** that is functioning a the father and the **Edges** that are functioning as its sons.
+
+
 ### Binary search tree
 ### Balanced search tree
 ### Suffix Tree
