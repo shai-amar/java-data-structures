@@ -36,8 +36,8 @@ The process to add an element into queue is called **Enqueue** and the process o
 
 ![](/images/queues/priority-queue.gif?raw=true)
 
-## Key value store
-Key value store structure represented in java by a **Hash Table** or a **Map**. In different languages they are called in a different names. Objective-C equivalent is the **Dictionary**.
+## Key-Value store
+Key-Value store structure represented in java by a **Hash Table** or a **Map**. In different languages they are called in a different names. Objective-C equivalent is the **Dictionary**.
 
 ### Hash table / Hash Map
 **Definition:** A hash table (hash map) is a data structure used to implement an associative array, a structure that can map keys to values. A hash table uses a hash function to compute an index into an array of buckets or slots, from which the desired value can be found.
@@ -54,8 +54,42 @@ This is the most important difference between two . HashMap is non synchronized 
 
 ![](/images/dictionaries/hashTable.png?raw=true)
 
+Key-Value store structure is one of the most important data structures exist. Here is a brief comparison of various Key-Value store java implementations:
+
+![](/images/dictionaries/javaStructureComparison.png?raw=true)
+
+
 
 ## Trees
+
+**Definition:** A Tree is a data structure compiled from a **Root node** that is functioning a the father and the **Edges** that are functioning as its sons.
+
+####Root
+
+####Edge
+
+####Parent
+
+####Child
+
+####Siblings
+
+####Leaf
+
+####Internal nodes
+
+####Degrees
+
+####Level
+
+####Height
+
+####Depth
+
+####Path
+
+####Sub tree
+
 ### Binary search tree
 ### Balanced search tree
 ### Suffix Tree
