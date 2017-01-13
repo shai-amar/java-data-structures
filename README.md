@@ -54,6 +54,11 @@ This is the most important difference between two . HashMap is non synchronized 
 
 ![](/images/dictionaries/hashTable.png?raw=true)
 
+Key value store structure is one of the most important data structures exist. Here is a brief comparison of Key Value store data structure:
+
+![](/images/dictionaries/javaStructureComparison.png?raw=true)
+
+
 
 ## Trees
 ### Binary search tree
