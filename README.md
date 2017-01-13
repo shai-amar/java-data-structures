@@ -66,29 +66,57 @@ Key-Value store structure is one of the most important data structures exist. He
 
 ####Root
 
+![](/images/trees/TreeRoot.png?raw=true)
+
 ####Edge
+
+![](/images/trees/TreeEdge.png?raw=true)
+
 
 ####Parent
 
+![](/images/trees/TreeParent.png?raw=true)
+
 ####Child
+
+![](/images/trees/TreeChild.png?raw=true)
 
 ####Siblings
 
+![](/images/trees/TreeSiblings.png?raw=true)
+
 ####Leaf
+
+![](/images/trees/TreeLeaf.png?raw=true)
 
 ####Internal nodes
 
+![](/images/trees/TreeNodes.png?raw=true)
+
 ####Degrees
+
+![](/images/trees/TreeDegrees.png?raw=true)
 
 ####Level
 
+![](/images/trees/TreeLevel.png?raw=true)
+
 ####Height
+
+![](/images/trees/TreeHeight.png?raw=true)
 
 ####Depth
 
+![](/images/trees/TreeHeight.png?raw=true)
+
 ####Path
 
+![](/images/trees/TreePath.png?raw=true)
+
 ####Sub tree
+
+![](/images/trees/Subtree.png?raw=true)
+
 
 ### Binary search tree
 ### Balanced search tree
