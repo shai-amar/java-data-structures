@@ -1,5 +1,5 @@
 # java-data-structures
-This repository implement various data structures and algorithms for general use
+This repository implement various data structures, algorithms and search techniques for general use
 
 ## Linked list
 ### Singly linked list
