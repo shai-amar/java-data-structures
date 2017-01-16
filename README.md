@@ -120,8 +120,8 @@ The first node of a tree data structure is called the Root node - the father of 
 ![](/images/trees/Subtree.png?raw=true)
 
 
-### Binary search tree
-### Balanced search tree
+### Binary tree
+### Balanced tree
 ### Suffix Tree
 
 ## Sorting and searching
