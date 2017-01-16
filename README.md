@@ -63,8 +63,10 @@ Key-Value store structure is one of the most important data structures exist. He
 ## Trees
 
 **Definition:** A Tree is a data structure compiled from a **Root node** that is functioning a the father and the **Edges** that are functioning as its sons.
+In the following examples we will see what are the components of a tree data structure and what they do.
 
 ####Root
+The first node of a tree data structure is called the Root node - the father of all the other nodes. There is only one Root node in every tree data structure.
 
 ![](/images/trees/TreeRoot.png?raw=true)
 
