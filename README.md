@@ -58,6 +58,7 @@ Key-Value store structure is one of the most important data structures exist. He
 
 ![](/images/dictionaries/javaStructureComparison.png?raw=true)
 
+### Hashing
 
 
 ## Trees
@@ -121,15 +122,26 @@ The first node of a tree data structure is called the Root node - the father of 
 
 
 ### Binary tree
+### AVL tree
 ### Balanced tree
 ### Suffix Tree
+### Red Black tree
+### Splay tree
 
-## Sorting and searching
+## Sorting
 ### Heapsort
 ### Mergesort
 ### Quicksort
 ### Distribution sort
+### Insertion sort
+### Selection sort
+### Radix sort
+
+
+## Searching
+### Linear search
 ### Binary search
+### 
 
 ## Graph traversal
 ### Directed Graph
