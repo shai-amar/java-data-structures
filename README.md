@@ -43,6 +43,9 @@ Key-Value store structure is combined from a key that is ealvulated by a hash fu
 ### Hash function
 A Hush function is a function that generates a key that is allowing the retrivel of the data in a constant time.
 
+![](/images/dictionaries/hashingConcept.png?raw=true)
+
+
 FOR DELETION
 In different languages they are called in a different names. Objective-C equivalent is the **Dictionary**.
 
