@@ -48,8 +48,8 @@ Hash function generate a key with it you can store\retrive a value.
 
 There are times which different values produce the same key, meaning, with the same key you can retrieve multiple values.
 There are several ways dealing with a key that already contains a value:
-- Retrive it and replace it with the new value. For example Java Map implements this startegy.
-- Each key contains a bucket instead of a value that can contains multiple value. For example  
+- Retrive it and replace it with the new value. For example: Java Map implements this startegy.
+- Each key contains a bucket instead of a value that can contains multiple value. For example: Java HashMap implements bucket strategy and uses LinkedList as the bucket.  
 
 ![](/images/dictionaries/hashingConcept.png?raw=true)
 
