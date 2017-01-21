@@ -38,7 +38,10 @@ The process to add an element into queue is called **Enqueue** and the process o
 
 ## Key-Value store
 Key-Value store structure represented in java by a **Hash Table** or a **Map**. 
-Key-Value store structure is combined from a key calvulated by a hash function and a value.
+Key-Value store structure is combined from a key that is ealvulated by a hash function and a value.
+
+### Hash function
+A Hush function is a function that generates a key that is allowing the retrivel of the data in a constant time.
 
 FOR DELETION
 In different languages they are called in a different names. Objective-C equivalent is the **Dictionary**.
