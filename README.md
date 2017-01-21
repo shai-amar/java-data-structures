@@ -43,6 +43,14 @@ Key-Value store structure is combined from a key that is ealvulated by a hash fu
 ### Hash function
 A Hush function is a function that generates a key that is allowing the retrivel of the data in a constant time.
 
+### Hash function collision
+Hash function generate a key with it you can store\retrive a value. 
+
+There are times which different values produce the same key, meaning, with the same key you can retrieve multiple values.
+There are several ways dealing with a key that already contains a value:
+- Retrive it and replace it with the new value. For example Java Map implements this startegy.
+- Each key contains a bucket instead of a value that can contains multiple value. For example  
+
 ![](/images/dictionaries/hashingConcept.png?raw=true)
 
 
