@@ -59,7 +59,7 @@ Key-Value store structure is one of the most important data structures exist. He
 ![](/images/dictionaries/javaStructureComparison.png?raw=true)
 
 ### Hashing
-
+Hashing is the process of indexing and retrieving element (data) in a datastructure to provide faster way of finding the element using the hash key.
 
 ## Trees
 
