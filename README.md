@@ -48,14 +48,11 @@ Hash function generate a key with it you can store\retrive a value.
 
 There are times which different values produce the same key, meaning, with the same key you can retrieve multiple values.
 There are several ways dealing with a key that already contains a value:
-- Retrive it and replace it with the new value. For example: Java Map implements this startegy.
-- Each key contains a bucket instead of a value that can contains multiple value. For example: Java HashMap implements bucket strategy and uses LinkedList as the bucket.  
+- Retrive it and replace it with the new value. For example: Java **HashTable** implements this startegy.
+- Each key contains a bucket instead of a value that can contains multiple value. For example: Java **HashMap** implements bucket strategy and uses **LinkedList** as the bucket.  
 
 ![](/images/dictionaries/hashingConcept.png?raw=true)
 
-
-FOR DELETION
-In different languages they are called in a different names. Objective-C equivalent is the **Dictionary**.
 
 ### Hash table / Hash Map
 **Definition:** A hash table (hash map) is a data structure used to implement an associative array, a structure that can map keys to values. A hash table uses a hash function to compute an index into an array of buckets or slots, from which the desired value can be found.
