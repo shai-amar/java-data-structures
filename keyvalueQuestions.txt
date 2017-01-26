@@ -1,0 +1,15 @@
+Key-Value store
+
+When I'll have time I need to create an article avout key-value store and what it means.
+
+these are the following questions that occurs to me:
+1. what is a hash function?
+2. what is a hash collision?
+3. how to implement a hash function?
+4. what is a load factor?
+5. what is a rehash and when do you do it?
+6. how the value (from key-value) is implemented? single value? buckets?
+
+
+A good explanation about hash function: http://stackoverflow.com/questions/9364134/what-hashing-function-does-java-use-to-implement-hashtable-class
+This url gives a good description about hashtable: https://docs.oracle.com/javase/7/docs/api/java/util/Hashtable.html
