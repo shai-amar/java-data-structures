@@ -145,6 +145,9 @@ The left and right pointers recursively point to smaller **subtrees** on either 
 
 The formal recursive definition is: a **binary tree** is either empty (represented by a null pointer), or is made of a single node, where the left and right pointers (recursive definition ahead) each point to a **binary tree**.
 
+![](/images/trees/binaryTree.png?raw=true)
+
+
 ### AVL tree
 ### Balanced tree
 ### Suffix Tree
