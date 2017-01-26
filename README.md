@@ -43,8 +43,16 @@ Key-Value store structure is combined from a key that is ealvulated by a hash fu
 ### Hash function
 A Hush function is a function that generates a key that is allowing the retrivel of the data in a constant time.
 
-FOR DELETION
-In different languages they are called in a different names. Objective-C equivalent is the **Dictionary**.
+### Hash function collision
+Hash function generate a key with it you can store\retrive a value. 
+
+There are times which different values produce the same key, meaning, with the same key you can retrieve multiple values.
+There are several ways dealing with a key that already contains a value:
+- Retrive it and replace it with the new value. For example: Java **HashTable** implements this startegy.
+- Each key contains a bucket instead of a value that can contains multiple value. For example: Java **HashMap** implements bucket strategy and uses **LinkedList** as the bucket.  
+
+![](/images/dictionaries/hashingConcept.png?raw=true)
+
 
 ### Hash table / Hash Map
 **Definition:** A hash table (hash map) is a data structure used to implement an associative array, a structure that can map keys to values. A hash table uses a hash function to compute an index into an array of buckets or slots, from which the desired value can be found.
@@ -129,6 +137,14 @@ The first node of a tree data structure is called the Root node - the father of 
 
 
 ### Binary tree
+A binary tree is made of nodes, where each node contains a **left** pointer, a **right** pointer, and a data element.
+
+The **root** pointer points to the topmost node in the tree. 
+
+The left and right pointers recursively point to smaller **subtrees** on either side. A null pointer represents a binary tree with no elements - the empty tree.
+
+The formal recursive definition is: a **binary tree** is either empty (represented by a null pointer), or is made of a single node, where the left and right pointers (recursive definition ahead) each point to a **binary tree**.
+
 ### AVL tree
 ### Balanced tree
 ### Suffix Tree
