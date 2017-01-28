@@ -145,10 +145,42 @@ The left and right pointers recursively point to smaller **subtrees** on either 
 
 The formal recursive definition is: a **binary tree** is either empty (represented by a null pointer), or is made of a single node, where the left and right pointers (recursive definition ahead) each point to a **binary tree**.
 
+![](/images/trees/binaryTree.png?raw=true)
+
+Algorithm | Average | Worst Case |
+----------|---------|-------------
+Space | O(n) | O(n) |
+Search | O(log n) | O(n) |
+Insert | O(log n) | O(n) |
+Delete | O(log n) | O(n) |
+
+
 ### AVL tree
-### Balanced tree
-### Suffix Tree
+AVL tree is a self-balancing binary search tree. 
+The AVL tree is named after its two Soviet inventors, Georgy **Adelson-Velsky** and Evgenii **Landis**, who published it in their 1962 paper "An algorithm for the organization of information".
+In an AVL tree, the heights of the two child subtrees of any node differ by at most one; if at any time they differ by more than one, rebalancing is done to restore this property.
+
+Algorithm | Average | Worst Case |
+----------|---------|-------------
+Space | O(n) | O(n) |
+Search | O(log n) | O(log n) |
+Insert | O(log n) | O(log n) |
+Delete | O(log n) | O(log n) |
+
 ### Red Black tree
+Red-Black tree is a self balancing binary search tree which was invented by Rudolf Bayer in 1972.
+It contains one extra attribute for each node: the colour, which is either red or black.
+A Red-Black tree contains the following properties:
+- every node is either red or black
+- every leaf (Null) is black
+- if a node is red, then both its children are black
+- every simple path from a node to a descendant leaf contains the same number of black nodes
+
+![](/images/trees/redBlackTree.png?raw=true)
+
+
+
+### Suffix Tree
 ### Splay tree
 
 ## Sorting
