@@ -178,6 +178,12 @@ A Red-Black tree contains the following properties:
 
 ![](/images/trees/redBlackTree.png?raw=true)
 
+Algorithm | Average | Worst Case |
+----------|---------|-------------
+Space | O(n) | O(n) |
+Search | O(log n) | O(log n) |
+Insert | O(log n) | O(log n) |
+Delete | O(log n) | O(log n) |
 
 
 ### Suffix Tree
