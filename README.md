@@ -160,10 +160,8 @@ Search | O(log n) | O(log n) |
 Insert | O(log n) | O(log n) |
 Delete | O(log n) | O(log n) |
 
-
-### Balanced tree
-### Suffix Tree
 ### Red Black tree
+### Suffix Tree
 ### Splay tree
 
 ## Sorting
