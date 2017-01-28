@@ -195,21 +195,6 @@ A trie is an ordered tree structure where each edge represent one character and 
 
 ### Splay tree
 
-## Sorting
-### Heapsort
-### Mergesort
-### Quicksort
-### Distribution sort
-### Insertion sort
-### Selection sort
-### Radix sort
-
-
-## Searching
-### Linear search
-### Binary search
-### 
-
 ## Graph traversal
 ### Directed Graph
 **Definition:** A graph G = (V,E) is directed if edge (x,y) ∈ E does NOT impliy that (y,x) is also in E
@@ -246,3 +231,20 @@ A trie is an ordered tree structure where each edge represent one character and 
 ### Explicit graph
 ### Labeled graph
 ### Unlabled graph
+
+
+## Sorting
+### Heapsort
+### Mergesort
+### Quicksort
+### Distribution sort
+### Insertion sort
+### Selection sort
+### Radix sort
+
+
+## Searching
+### Linear search
+### Binary search
+### 
+
