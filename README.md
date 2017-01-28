@@ -181,6 +181,12 @@ A Red-Black tree contains the following properties:
 
 
 ### Suffix Tree
+A suffix tree is a trie of the n suffixes of an n-character string S.
+A trie is an ordered tree structure where each edge represent one character and the root represents the null string. Thus, each path from the root represents a string, described by the characters labeling the edges traversed.
+
+![](/images/trees/suffixTree.jpg?raw=true)
+
+
 ### Splay tree
 
 ## Sorting
