@@ -149,6 +149,10 @@ The formal recursive definition is: a **binary tree** is either empty (represent
 
 
 ### AVL tree
+AVL tree is a self-balancing binary search tree. 
+The AVL tree is named after its two Soviet inventors, Georgy **Adelson-Velsky** and Evgenii **Landis**, who published it in their 1962 paper "An algorithm for the organization of information".
+In an AVL tree, the heights of the two child subtrees of any node differ by at most one; if at any time they differ by more than one, rebalancing is done to restore this property.
+
 ### Balanced tree
 ### Suffix Tree
 ### Red Black tree
