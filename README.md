@@ -147,6 +147,13 @@ The formal recursive definition is: a **binary tree** is either empty (represent
 
 ![](/images/trees/binaryTree.png?raw=true)
 
+Algorithm | Average | Worst Case |
+----------|---------|-------------
+Space | O(n) | O(n) |
+Search | O(log n) | O(n) |
+Insert | O(log n) | O(n) |
+Delete | O(log n) | O(n) |
+
 
 ### AVL tree
 AVL tree is a self-balancing binary search tree. 
