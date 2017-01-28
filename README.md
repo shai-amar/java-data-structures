@@ -171,11 +171,12 @@ Delete | O(log n) | O(log n) |
 Red-Black tree is a self balancing binary search tree which was invented by Rudolf Bayer in 1972.
 It contains one extra attribute for each node: the colour, which is either red or black.
 A Red-Black tree contains the following properties:
-- every node is either red or **black**
-- every leaf (Null) is **black**
+- every node is either red or black
+- every leaf (Null) is black
 - if a node is red, then both its children are black
 - every simple path from a node to a descendant leaf contains the same number of black nodes
 
+![](/images/trees/redBlackTree.png?raw=true)
 
 
 
